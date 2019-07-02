@@ -16,6 +16,7 @@
     "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
     "css-loader": "^3.0.0",
+    "eslint": "^6.0.1",
     "extract-text-webpack-plugin": "^3.0.2",
     "gulp-sass": "4.0.2",
     "html-webpack-plugin": "^3.2.0",
@@ -28,7 +29,6 @@
     "webpack-dev-server": "^2.11.5"
   },
   "dependencies": {
-    "eslint": "^6.0.1",
     "jquery": "^3.4.1"
   }
 }
