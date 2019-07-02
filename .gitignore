@@ -1,0 +1,9 @@
+/.vscode
+Thumbs.db
+/vendor
+composer.phar
+.DS_Store
+phpunit.phar
+/phpunit.xml
+/.vagrant
+node_modules
