@@ -1,0 +1,9 @@
+@charset 'UTF-8';
+@import 'reset-css';
+@import 'mixins';
+
+* { box-sizing: border-box; }
+a { color: inherit; }
+h1, h2, h3, p, ul { margin-top: 0; }
+.btn, input, textarea, button:focus { outline: none; }
+.icon {	display: inline-block; width: 2em; height: 2em;	font-size: 30px; }
